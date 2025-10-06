@@ -1,2 +1,2 @@
-# design_of_electromechanical_system
+solar tracking system
 designs by eric
